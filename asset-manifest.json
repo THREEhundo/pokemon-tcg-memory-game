@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/THREEhundo/pokemon-tcg-memory-game/static/css/main.0ce2b745.chunk.css",
+    "main.js": "/THREEhundo/pokemon-tcg-memory-game/static/js/main.67127e55.chunk.js",
+    "main.js.map": "/THREEhundo/pokemon-tcg-memory-game/static/js/main.67127e55.chunk.js.map",
+    "runtime-main.js": "/THREEhundo/pokemon-tcg-memory-game/static/js/runtime-main.7430826d.js",
+    "runtime-main.js.map": "/THREEhundo/pokemon-tcg-memory-game/static/js/runtime-main.7430826d.js.map",
+    "static/js/2.9aeef668.chunk.js": "/THREEhundo/pokemon-tcg-memory-game/static/js/2.9aeef668.chunk.js",
+    "static/js/2.9aeef668.chunk.js.map": "/THREEhundo/pokemon-tcg-memory-game/static/js/2.9aeef668.chunk.js.map",
+    "static/js/3.c01db791.chunk.js": "/THREEhundo/pokemon-tcg-memory-game/static/js/3.c01db791.chunk.js",
+    "static/js/3.c01db791.chunk.js.map": "/THREEhundo/pokemon-tcg-memory-game/static/js/3.c01db791.chunk.js.map",
+    "index.html": "/THREEhundo/pokemon-tcg-memory-game/index.html",
+    "static/css/main.0ce2b745.chunk.css.map": "/THREEhundo/pokemon-tcg-memory-game/static/css/main.0ce2b745.chunk.css.map",
+    "static/js/2.9aeef668.chunk.js.LICENSE.txt": "/THREEhundo/pokemon-tcg-memory-game/static/js/2.9aeef668.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/THREEhundo/pokemon-tcg-memory-game/static/media/Pokemon.5d60be1f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7430826d.js",
+    "static/js/2.9aeef668.chunk.js",
+    "static/css/main.0ce2b745.chunk.css",
+    "static/js/main.67127e55.chunk.js"
+  ]
+}
