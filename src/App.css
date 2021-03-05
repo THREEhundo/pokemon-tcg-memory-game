@@ -1,0 +1,92 @@
+@font-face {
+  font-family: "pokemon";
+  src: url(pokmon/Pokemon.ttf);
+  font-style: normal;
+}
+
+* {
+  font-family: pokemon;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+ul,
+#banner {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+  margin: auto;
+  margin-bottom: 30px;
+  width: 100vw;
+  min-width: 900px;
+  max-width: 1499px;
+}
+
+li {
+  list-style: none;
+  margin: 5px;
+}
+
+#info > p {
+  margin: 1px auto;
+  -webkit-text-fill-color: #fbc42c;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #2d5da6;
+  font-size: 1.5rem;
+  font-family: "Darker Grotesque";
+}
+
+.App {
+  text-align: center;
+  min-width: 900px;
+}
+
+#modal {
+  min-width: 900px;
+}
+
+#banner {
+  margin: auto;
+  width: 25%;
+  max-width: 884px;
+  height: auto;
+}
+
+#scoreBoard {
+  margin: 15px auto;
+  -webkit-text-fill-color: #fbc42c;
+  -webkit-text-stroke-width: 8px;
+  -webkit-text-stroke-color: #2d5da6;
+  font-size: 6rem;
+  letter-spacing: 1rem;
+  min-width: 900px;
+}
+
+#scoreBoard > img {
+  text-align: center;
+  vertical-align: middle;
+}
+
+#scoreBoard > #currentScore,
+#highScore {
+  display: flex;
+  flex-flow: nowrap;
+  justify-content: center;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+#currentImg {
+  width: 651px;
+  height: 109px;
+}
+
+#highImg {
+  width: 471px;
+  height: 145px;
+}
