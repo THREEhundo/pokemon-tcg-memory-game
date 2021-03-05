@@ -1,6 +1,6 @@
 # Pokemon Trading Card Memory Game
 
-![Image of App](https://imgur.com/a/NBKNIA0)
+![Image of App](https://imgur.com/T4a6kOI)
 
 ## Description
 
