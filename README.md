@@ -1,5 +1,7 @@
 # Pokemon Trading Card Memory Game
 
+[Link to Game](https://threehundo.github.io/pokemon-tcg-memory-game/)
+
 ![App Screenshot](https://i.imgur.com/T4a6kOI.png)
 
 ## Description
@@ -43,5 +45,4 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Sneaker Shopping Cart:** https://github.com/THREEhundo/sneakers-shopping-cart
 
-[Link to Game](https://threehundo.github.io/pokemon-tcg-memory-game/)
 
