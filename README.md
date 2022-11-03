@@ -1,6 +1,6 @@
 # Pokemon Trading Card Memory Game
 
-[Link to Game](https://threehundo.github.io/pokemon-tcg-memory-game/)
+**Link to Project** https://threehundo.github.io/pokemon-tcg-memory-game/
 
 ![App Screenshot](https://i.imgur.com/T4a6kOI.png)
 
