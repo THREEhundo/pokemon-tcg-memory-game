@@ -35,11 +35,13 @@ ReactJS
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Expenses Chart Component:** https://github.com/THREEhundo/expenses-chart-component-main
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**Level Ground MMA:** https://github.com/THREEhundo/level-ground
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**America the Beautiful:** https://github.com/THREEhundo/america-the-beautiful
+
+**Sneaker Shopping Cart:** https://github.com/THREEhundo/sneakers-shopping-cart
 
 [Link to Game](https://threehundo.github.io/pokemon-tcg-memory-game/)
 
